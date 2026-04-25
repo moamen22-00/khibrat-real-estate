@@ -1,16 +1,53 @@
-# React + Vite
+# Khibrat Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack real estate platform built with **React** and **Laravel**.  
+The project provides a modern real estate website with property service pages, a property submission form, file uploads, an admin dashboard, authentication, and PDF export with Arabic support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Modern responsive website interface
+- Real estate services section
+- Property submission form
+- File and image upload system
+- Admin login system
+- Protected admin dashboard
+- Search and filter requests
+- View request details
+- Delete requests
+- Export property requests as PDF
+- Arabic RTL support
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React.js
+- JavaScript
+- CSS
+- React Router
+
+### Backend
+- Laravel
+- PHP
+- REST API
+- MySQL
+
+### Tools
+- Git & GitHub
+- Thunder Client
+- mPDF
+
+---
+
+## Project Structure
+
+```text
+khibrat-real-estate/
+├── src/
+├── public/
+├── khibrat-backend/
+├── package.json
+└── README.md
