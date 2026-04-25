@@ -5,44 +5,44 @@ The project provides a modern real estate website with property service pages, a
 
 ---
 
-## Features
+## 🚀 Features
 
-- Modern responsive website interface
-- Real estate services section
-- Property submission form
-- File and image upload system
-- Admin login system
-- Protected admin dashboard
-- Search and filter requests
-- View request details
-- Delete requests
-- Export property requests as PDF
-- Arabic RTL support
+- Modern responsive website interface  
+- Real estate services section  
+- Property submission form  
+- File and image upload system  
+- Admin login system  
+- Protected admin dashboard  
+- Search and filter requests  
+- View request details  
+- Delete requests  
+- Export property requests as PDF  
+- Arabic RTL support  
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Frontend
-- React.js
-- JavaScript
-- CSS
-- React Router
+- React.js  
+- JavaScript  
+- CSS  
+- React Router  
 
 ### Backend
-- Laravel
-- PHP
-- REST API
-- MySQL
+- Laravel  
+- PHP  
+- REST API  
+- MySQL  
 
 ### Tools
-- Git & GitHub
-- Thunder Client
-- mPDF
+- Git & GitHub  
+- Thunder Client  
+- mPDF  
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 khibrat-real-estate/
